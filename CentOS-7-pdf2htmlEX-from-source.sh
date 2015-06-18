@@ -10,7 +10,7 @@ VCario=1.14.2
 
 ## Install necessary tools
 yum -y install cmake gcc gnu-getopt java-1.8.0-openjdk libpng-devel \
-	libspiro-devel freetype-devel libjpeg-turbo-devel git wget zip unzip make
+	libspiro-devel freetype-devel libjpeg-turbo-devel git wget zip unzip make gettext
 	
 ## Additional
 yum -y install gcc-c++ openjpeg-devel patch libtool libtool-ltdl-devel \
